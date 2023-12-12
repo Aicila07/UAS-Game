@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":1,"characterName":"Test","classId":1,"equips":[1],"faceIndex":1,"faceName":"Test","traits":[],"initialLevel":1,"maxLevel":99,"name":"MC","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"Test","classId":1,"equips":[0],"faceIndex":0,"faceName":"Test","traits":[],"initialLevel":1,"maxLevel":99,"name":"FEMC","nickname":"","note":"","profile":""}
+]
